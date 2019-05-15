@@ -7,13 +7,22 @@ It's obvious that is a reversed string. I solved in python.
 
 ![alt crypt1](Resources/crypt%20lvl1.png)
 
+## (OR)
 If you are good at in loop,
-<tt>
-flag = '' \n
+```
+flag = '' 
 for i in msg:
     flag = i + flag   
 print(flag)
-</tt>
+```
+## (OR)
+You can also use slice.
+```
+>>>msg[::-1]
+```
+It's syntax is [start,stop,step]
+I gave nothing to start and stop.So, it takes 0 as default. step -1 denotes starting from end and stop at the start. It becomes reverse string.
+
 
 
 
