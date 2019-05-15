@@ -1,0 +1,24 @@
+It's obvious that is a reversed string. I solved in python.
+
+>>>msg = 'tpyrcoow :ssap siht retne level siht etelpmoc oT .rewop niarb fo tol a yolpme ot deen lliw uoy ,cigol dna noitpyrced tuoba lla era slevel esehT .sihtkcah no slevel tpyrc eht ot emoclew ,olleH'
+
+>>>''.join(reversed(msg))
+
+(or)
+If you are good at in loop,
+
+flag = ''
+for i in msg:
+    flag = i + flag
+print(flag)
+
+(or)
+You can also use slice.
+
+>>>msg[::-1]
+
+It's syntax is [start,stop,step]
+I gave nothing to start and stop.So, it takes 0 as default. step -1 denotes starting from end and stop at the start. It becomes reverse string.
+
+
+
