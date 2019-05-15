@@ -7,6 +7,7 @@ It's obvious that is a reversed string. I solved in python.
 
 ![alt crypt1](Resources/crypt%20lvl1.png)
 
+We got the flag <tt>woocrypt</tt>
 ## (OR)
 If you are good at in loop,
 ```
