@@ -20,8 +20,7 @@ You can also use slice.
 ```
 >>>msg[::-1]
 ```
-It's syntax is [start,stop,step]
-I gave nothing to start and stop.So, it takes 0 as default. step -1 denotes starting from end and stop at the start. It becomes reverse string.
+It's syntax is <tt>[start,stop,step]</tt>. I gave nothing to start and stop. So, it takes 0 as default. Step -1 denotes starting from end and stop at the start. Then, it becomes reverse string.
 
 
 
