@@ -7,6 +7,7 @@ It's [ic](https://www.dcode.fr/index-coincidence) is 0.0817 which is similar to 
 Frequency analysis can break it.
 
 I transfer cipher text to upper case. Decryped msg will be in lower case to be obvious.
+
 <tt>$echo '...' | tr '[:lower:]' '[:upper:]'</tt>
 
 Firstly, <tt>JHLL</tt> must be <tt>pass</tt> according to HackThis's format.
@@ -18,11 +19,13 @@ H = a
 L = s
 
 Due to [FA](https://www.dcode.fr/frequency-analysis), most frequent bigram in cipher txt is <tt>CL</tt>.
+
 <tt>CL</tt> = <tt>is</tt> (<tt>CL</tt> can be <tt>is</tt> cause <tt>is</tt> is one of the most frequent bigram in English txt. Moreover, <tt>L</tt> is <tt>s</tt> as we found as above) 
 
 C = i
 
 Let's substitute them by translating respectively.
+
 <tt>$echo 'Dc, gdcl cl h lcrcshn ckqh gz sqwqs guz. Gdcl gcrq qhyd sqggqn cl hllcomqk h ljqycacqk nqshgczmldcj ucgd hmzgdqn sqggqn. Jhll: cdhwqancqmkl' | tr '[:lower:]' '[:upper:]' | tr 'JHLC' 'pasi'</tt>
 
 we got:
