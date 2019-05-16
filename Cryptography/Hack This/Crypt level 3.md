@@ -6,7 +6,9 @@ https://www.hackthis.co.uk/levels/crypt/3
 
 O! it's dots and dashs. These are morse codes.
 
-<tt>/</tt> for <tt>space</tt> . 
+<tt>/</tt> for <tt>space</tt> .
+
+## Morse code table
 ```
 A 	.-                N 	-.
 B 	-...              O 	---   
@@ -36,4 +38,5 @@ Comma (,) 	--..--
 Query (?) 	..--.. 	
 Equals (=) 	-...-
 ```
-https://morsecode.scphillips.com/translator.html
+
+Knowing them, I used [this](https://morsecode.scphillips.com/translator.html) online tool.
