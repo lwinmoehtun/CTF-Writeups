@@ -7,6 +7,6 @@ We got an audio file.
 It looks like to find flag in sound waves.
 
 I opened this file in sonic vaisualiser.
-![crypt6 sonic](Resources/Crypt6)
+![crypt6 sonic](Resources/crypt6.png)
 
 
