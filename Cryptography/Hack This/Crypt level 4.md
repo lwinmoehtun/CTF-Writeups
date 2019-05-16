@@ -100,10 +100,12 @@ Substitute them to get flag:
 
 >hi, this is a similar idea to level two. this time each letter is assigned a specified relationship with another letter. pass: ihavefriends                           
 
+Now, we get the flag. ja ja
+
 Some powerful online tools:
 
 [quip quip](https://www.quipqiup.com/)
 
 [gublla](https://www.guballa.de/substitution-solver)
 
-
+Solving matually is more delicious if you have time.
