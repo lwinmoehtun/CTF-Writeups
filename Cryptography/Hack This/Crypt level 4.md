@@ -67,6 +67,7 @@ M = n
 U = w
 
 Let's substitute:
+
 <tt>$ echo 'Dc, gdcl cl h lcrcshn ckqh gz sqwqs guz. Gdcl gcrq qhyd sqggqn cl hllcomqk h ljqycacqk nqshgczmldcj ucgd hmzgdqn sqggqn. Jhll: cdhwqancqmkl' | tr '[:lower:]' '[:upper:]' | tr 'JHLCDGZRQNSMU' 'pasihtomerlnw'</tt>
 
 >hi, this is a similar iKea to leWel two. this time eaYh letter is assiOneK a speYiAieK relationship with another letter. pass: ihaWeArienKs    
@@ -93,11 +94,16 @@ Y = c
 
 A = f
 
-Substitute them to get flag.
+Substitute them to get flag:
+
 <tt>$ echo 'Dc, gdcl cl h lcrcshn ckqh gz sqwqs guz. Gdcl gcrq qhyd sqggqn cl hllcomqk h ljqycacqk nqshgczmldcj ucgd hmzgdqn sqggqn. Jhll: cdhwqancqmkl' | tr '[:lower:]' '[:upper:]' | tr 'JHLCDGZRQNSMUKWOYA' 'pasihtomerlnwdvgcf'</tt>
 
 >hi, this is a similar idea to level two. this time each letter is assigned a specified relationship with another letter. pass: ihavefriends                           
 
+Some powerful online tools:
 
+[quip quip](https://www.quipqiup.com/)
+
+[gublla](https://www.guballa.de/substitution-solver)
 
 
