@@ -2,7 +2,7 @@ https://ringzer0ctf.com/challenges/154
 
 >Get the flag simple as that. Or ask @el_d33 the crypto master 
 
->           ![Start the challenge]
+>           ![Start the challenge](Resources/CryptoObject.png)
 
 In the picture, I found a ribbbon(rope) with the letters.
 It makes me remember a cipher which was used by chinese for thousands of year ago.
