@@ -38,6 +38,8 @@ a = <tt>s</tt>
 
 By inserting these characters, we can guess some words.
 
+><tt>s</tt>yo<tt>e</tt>e <tt>s</tt><tt>e</tt>xe<tt>e</tt><tt>t</tt> n<tt>e</tt><tt>s</tt><tt>s</tt>lf<tt>e</tt> die tiy <tt>the</tt> fklf <tt>is</tt> x<tt>h</tt>ixikl<tt>t<tt>e</tt>! tiy le<tt>e</tt> q<tt>e</tt>kxin<tt>e</tt>.
+ 
 nwaalfw = n<tt>e</tt><tt>s</tt><tt>s</tt>lf<tt>e</tt>(Oh! it can be 'message')
 
 n = <tt>m</tt>
