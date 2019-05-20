@@ -23,3 +23,5 @@ But, in Ubantu, I used a [ruby file](Resources/gppDecrypt.rb) to decrypt it.
 
 ![ruby](Resources/lostmypass.png)
 
+Flag: <tt>LocalRoot!</tt>
+
