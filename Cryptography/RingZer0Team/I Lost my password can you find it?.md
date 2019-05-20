@@ -19,7 +19,7 @@ So, use gpp decrypt.
 
 If you are using kali, there is gpp-decrypt tool.
 
-But, I used a [ruby file](Resources/gppDecrypt.rb) to decrypt it.
+But, in Ubantu, I used a [ruby file](Resources/gppDecrypt.rb) to decrypt it.
 
 ![ruby](Resources/lostmypass.png)
 
