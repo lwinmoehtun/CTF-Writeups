@@ -10,7 +10,7 @@ The cure for your worst
 Hangovers and more: Bacon
 True: Science says so
 ```
-I saved the msg in bacon.txt
+I saved the msg in [bacon.txt](Resources/bacon.txt).
 
 The message was composed with Capital & Small letters. It can be assume as two types of letter. The cipher that uses two types of letter is [baconian cipher](http://practicalcryptography.com/ciphers/baconian-cipher/).
 
