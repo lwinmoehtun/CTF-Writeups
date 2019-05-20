@@ -38,7 +38,7 @@ a = <tt>s</tt>
 
 By inserting these characters, we can guess some words.
 
-><tt>s</tt>yo<tt>e</tt>e <tt>s</tt><tt>e</tt>xe<tt>e</tt><tt>t</tt> n<tt>e</tt><tt>s</tt><tt>s</tt>lf<tt>e</tt> die tiy <tt>the</tt> fklf <tt>is</tt> x<tt>h</tt>ixikl<tt>t<tt>e</tt>! tiy le<tt>e</tt> q<tt>e</tt>kxin<tt>e</tt>.
+><tt>s</tt>yo<tt>e</tt>e  <tt>s</tt><tt>e</tt>xe<tt>e</tt><tt>t</tt>  n<tt>e</tt><tt>s</tt><tt>s</tt>lf<tt>e</tt>  die  tiy  <tt>the</tt> fklf  <tt>is</tt>  x<tt>h</tt>ixikl<tt>te</tt>!  tiy  le<tt>e</tt>  q<tt>e</tt>kxin<tt>e</tt>.
  
 nwaalfw = n<tt>e</tt><tt>s</tt><tt>s</tt>lf<tt>e</tt>(Oh! it can be 'message')
 
@@ -55,15 +55,13 @@ It may be <tt>are</tt> because it is a common trigram.
 
 e = <tt>r</tt>
 
-Insert and we found
-
-awxewr=<tt>s</tt><tt>e</tt>x<tt>r</tt><tt>e</tt><tt>t</tt>
-
-Ya! it is <tt>secret</tt>.
+awxewr = <tt>se</tt>x<tt>ret</tt> . Ya! it is <tt>secret</tt>.
 
 x = <tt>c</tt>
 
-Another thing is 'die' = <tt>--r</tt>. Then,it may be <tt>for</tt>
+Insert and we found
+
+'die' = <tt>--r</tt>. It may be <tt>for</tt>
 
 d = <tt>f</tt>
 
